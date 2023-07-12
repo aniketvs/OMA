@@ -1,5 +1,6 @@
 import React from 'react';
-import './Header.scss'
+import './Header.scss';
+
 
 const Header = () => {
   return (
@@ -25,7 +26,7 @@ const Header = () => {
     </div>
     <div className="bottomHeader">
       <div className='logo-wrap'>
-
+        <img src='/images/ivf-circle.png'/>
       </div>
       <div className='nav-items'>
         <ul>
