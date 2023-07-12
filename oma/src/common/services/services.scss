@@ -1,0 +1,23 @@
+.services{
+    h2{
+        font-size: 36px;
+        font-weight: 700;
+        color: #dd003b;
+        text-align: center;
+    }
+    .service-content{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        .service-image{
+            flex-shrink: 0;
+            height: 60px;
+            width: 60px;
+            background-color: #FBDEE5;
+            border-radius: 50%;
+        }
+        p{
+            margin-bottom: 0;
+        }
+    }
+}
