@@ -1,0 +1,21 @@
+.upper-content{
+    text-align: center;
+}
+
+.side-component{
+    margin-left: 32px;
+}
+
+.aesthetic-icon-div{
+    
+    border-radius: 50%;
+}
+
+.aesthetic-icon{
+    border: 3px solid #cdafb2;
+    background: #b3b3b39c;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
