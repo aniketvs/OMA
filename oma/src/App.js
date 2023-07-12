@@ -1,12 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 
-import Meet from './common/Meet/Meet';
+import Header from './common/Header/Header';
+
 
 function App() {
   return (
    <>
-    <Meet/>
+    <Header/>
    </>
   );
 }
