@@ -1,0 +1,30 @@
+.heading{
+    color: #DD003E;
+    font-weight: 700;
+    font-style: inherit;
+    font-family: sans-serif;
+}
+
+.footer-container{
+    background-color: #ffeaf0;
+    margin-bottom: -14px;
+}
+
+.content-alignment{
+    text-align: center;
+}
+
+.footer-logo-oma{
+    img{
+        height: 80px;
+        width: 80px;
+    }
+}
+
+.footer-logo{
+    margin : 10px;
+    svg{
+        width: 30px;
+        height: 30px;
+    }
+}
