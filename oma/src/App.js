@@ -1,11 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import Meet from './common/Meet/Meet';
+import Hero from './common/Hero/Hero';
 
 function App() {
   return (
    <>
-    <Meet/>
+    <Hero/>
    </>
   );
 }
